@@ -1,0 +1,8 @@
+logs/
+.git
+*.md
+.cache
+node_modules
+.wwebjs_auth
+.env
+app.yaml
