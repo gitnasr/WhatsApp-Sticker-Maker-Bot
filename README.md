@@ -40,7 +40,7 @@ The WhatsApp Sticker Maker Bot is built using the following technologies:
 
 For any inquiries or if you wish to contribute to the project, please contact Me at [gitnasr@proton.me](mailto:gitnasr@proton.me).
 
-### ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This repository and its associated code, including the WhatsApp Sticker Maker Bot, are provided as a showcase of the developer's work. The developer, M.Nasr, is not responsible for any misuse or abuse of the bot.
 
