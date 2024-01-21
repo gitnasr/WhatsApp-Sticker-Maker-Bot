@@ -1,4 +1,4 @@
-<img width="100" alt="WASticker" src="https://github.com/gitnasr/WhatsApp-Sticker-Maker-Bot/assets/42423651/1cad7cf1-df18-4781-bef8-e26b8accd291">
+<img width="100" alt="Logo Rounded" src="https://github.com/gitnasr/WhatsApp-Sticker-Maker-Bot/assets/42423651/a00fbd99-18c7-4c25-887f-68fd95bc30a2">
 
 # WhatsApp Sticker Maker Bot
 
