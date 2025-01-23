@@ -118,6 +118,9 @@ class WhatsApp {
 	async _handleIncomingMessages() {
 		const client = this.client;
 		client.on("message", async (message) => {
+			if (message.isGroupMsg) {
+				return
+			}
 			try {
 				if (message.body === ".") {
 					return this._sendTextMessage(
